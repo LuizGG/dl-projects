@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Other folders
+/reddit-self-post/data/*.tsv
+/reddit-self-post/data/*.csv
+/reddit-self-post/data/*.pkl
+/reddit-self-post/models/*.pth
