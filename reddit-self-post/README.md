@@ -6,13 +6,13 @@ Using only 40% of the data for training, the model achieves peformance close to 
 
 My model outcomes:
 
-[](/.imgs/img1.png)
+[](/reddit-self-post/.imgs/img1.png)
 
-[Source](/fit_model.ipynb)
+[Source](/reddit-self-post/fit_model.ipynb)
 
 Source benchmark: 
 
-[](/.imgs/img2.png)
+[](/reddit-self-post/.imgs/img2.png)
 
 [Source](https://www.kaggle.com/mswarbrickjones/starter-naive-bayes-benchmark-p-at-5-0-88)
 
